@@ -1,0 +1,53 @@
+html {
+	width: 99%;
+	height: 97%;
+}
+body {
+	width: 100%;
+	height: 100%;
+	background-color: #ddd3d3;
+}
+.btn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #183EA5;
+    padding: 5px;
+    border: none;
+}
+.lbtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #183EA5;
+    padding: 3px 16px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.box {
+	width: 90%;
+	height: 90%;
+	border: 1px solid #d9d9d9;
+	border-top:1px solid #c0c0c0;
+}
+.tdleft {
+	width: 30%;
+	height: 70%;
+	font-size: 18px;
+	background-color: #edeff2;
+	font-weight: bold;
+	color: #3127aa;
+}
+td.mybackground {
+	background-image: url("images/Main%20Page%20Background.png");
+	background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #ffffff;
+    background-size: contain;
+    width: 70%;
+    height: 70%;
+    color: #3127aa;
+    font-weight: bold;
+}
